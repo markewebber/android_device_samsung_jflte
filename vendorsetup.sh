@@ -1,1 +1,1 @@
-add_lunch_combo cm_jflte-eng
+add_lunch_combo sprirt_jflte-userdebug
